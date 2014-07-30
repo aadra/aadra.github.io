@@ -24,7 +24,7 @@ div#sidebar{
    background:grey; 
 }
 div#content{
-    background:black;
+    background:#f2f2f2;
     width:100%;
     height:1600px;
 }
