@@ -10,6 +10,12 @@ body {
 	padding-left: 20px;
 	padding-right: 20px;
 }
+{
+    float: right;
+    min-height: 700px;
+    min-width: 25%;
+    background-color: #FFFFFF;
+}
 
 h3 {
 	color: #dd1144;
