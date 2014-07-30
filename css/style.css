@@ -10,13 +10,17 @@ body {
 	padding-left: 20px;
 	padding-right: 20px;
 }
-{
-    float: right;
-    min-height: 700px;
-    min-width: 25%;
-    background-color: #FFFFFF;
+div {
+	position:relative;
+	min-height:700px;
 }
-
+sidebar {
+    position:absolute;
+    right:0px;
+    bottom:0px;
+    top:0px;
+    width:100px;
+}
 h3 {
 	color: #dd1144;
 	text-align: center;
