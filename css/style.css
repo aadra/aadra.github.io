@@ -1,3 +1,18 @@
+body {
+	background-color: #f2f2f2;
+}
+
 h3 {
 	color: #dd1144;
+	text-align: center;
+}
+
+p {
+	color: #003c78;
+	text-align: center;
+}
+
+
+ul {
+	color: #003c78;
 }
