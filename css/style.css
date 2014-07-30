@@ -1,6 +1,6 @@
 
-body {
-	background-color: #f2f2f2;
+
+	
 	/*margin-top: 20px;
 	margin-right: 50px;
 	margin-left: 50px;
@@ -9,18 +9,26 @@ body {
 	border-radius: 5px
 	padding-left: 20px;
 	padding-right: 20px;*/
+
+body{
+	background-color: #f2f2f2;
+    padding-left:200px;
+    margin:0;
 }
-parentDiv {
-	position:relative;
-	min-height:700px;
+div#sidebar{
+   position:fixed;
+   height:100%;
+   width:200px; 
+   top:0;
+   left:0;
+   background:grey; 
 }
-sidebar {
-    position:absolute;
-    right:0px;
-    bottom:0px;
-    top:0px;
-    width:100px;
+div#content{
+    background:black;
+    width:100%;
+    height:1600px;
 }
+
 h3 {
 	color: #dd1144;
 	text-align: center;
