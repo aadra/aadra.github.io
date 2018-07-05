@@ -18,7 +18,7 @@
 	*/
 
 body{
-	background-color: #e5f5e0;
+	background-color: #f7fcb9;
     /*padding-left:200px;*/
     margin:0;
 }
@@ -31,7 +31,7 @@ body{
    background:#31a354; 
 }
 #content {
-    background:#e5f5e0;
+    background:#f7fcb9;
     width:81%;
     height:100%;
     margin-left: 17%;
